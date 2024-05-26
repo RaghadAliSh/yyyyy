@@ -1,0 +1,98 @@
+/* table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+
+  }
+  
+  table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  table tr:nth-child(even){background-color: #f2f2f2;}
+  table tr:nth-child(odd){background-color: #ddd;}
+
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #B09697;
+    color: white;
+  }
+.con h1{
+
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.dropy{
+    overflow-y: scroll;
+    height: 600px;
+    background-color: #ede8e8;
+    scrollbar-color:#b09697 #ede8e8 ;
+
+}
+table tr:nth-child(even){background-color: #f2f2f2;}
+table tr:nth-child(odd){background-color: #ddd;}
+tbody button{
+
+    background-color: #766487; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    width: 10rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+thead {
+  position: sticky;
+  top: 0; 
+}
+img{
+
+    border-radius: 5px;
+}
+#confirmbutton{
+
+   
+    width: 5rem;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    width: 5rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+tbody input{
+    border-style: groove;
+    border-radius: 5px;
+   border-color: beige;
+height: 30px;
+}
+.con{
+
+    margin-left: 3rem;
+}
+@media screen and (max-width: 1176px) {
+    tbody button{
+        width: 5rem;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        width: 5rem;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 10px;
+  }
+  td #proname
+  {
+    width: 5rem;
+
+
+  }
+} */

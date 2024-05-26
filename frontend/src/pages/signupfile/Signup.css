@@ -1,0 +1,88 @@
+.container2 {
+     width :660px;
+     /*background-image: url('../photosignup/log\ in.png');*/
+     background-image: url('../signupfile/log\ in.png');
+
+     border-radius: 25px;
+ }
+ .container2 h1 {
+     font-size: 45px;
+     text-align: center;
+     font-weight: 700;
+     margin-left: 10px;
+     color: aliceblue;
+ }
+ .container2 p {
+     margin-left: 230px;
+     margin-top: 10px;
+     color: aliceblue;
+     font-weight: 400;
+     font-size: 15px;
+ }
+ .container2 a {
+     color :black;
+ }
+ .container2 h6 {
+     margin-left: 285px;
+     color: aliceblue;
+     font-size: 15px;
+     font-weight: 500;
+     margin-bottom: 10px;
+ }
+ .container2 .input-box2 {
+ position: relative;
+ width: 80%;
+ padding-left: 10px;
+ height: 50px;
+ margin : 5px 10%;
+ border: 1px solid wigth;
+ }
+ .input-box2 input {
+ width: 95%;
+ margin-left: 15px;
+ padding-left: 10px;
+ height: 100%;
+ font-size: 14px;
+ font-weight: 600;
+ border-top:none ;
+ border-left:none ;
+ border-right:none ;
+ border-bottom: 1px solid aliceblue; 
+ background-color:unset;
+ color :aliceblue;
+ 
+ }
+ ::placeholder{
+     color :aliceblue;
+     opacity: 1;
+ }
+ .container2 button{
+     margin-left: 150px;
+     margin-top: 30px;
+     margin-bottom: 20px;
+     width: 55%;
+     height: 35px;
+     background:#7abfc1;
+     color:rgb(0, 0, 0);
+     border :none;
+     outline: none;
+     border-radius: 40px;
+     box-shadow: 0 0 10px rgba(0 , 0 , 0 , .1);
+     cursor: pointer;
+     font-size:18px;
+     font-weight: 600;
+ }
+  
+ .icon2 {
+     margin-left: 310px ;
+     font-size: 23px; 
+     display: flex;
+     padding: 1100pxs;
+ }
+     
+ 
+ .icon2 .fa {
+     margin-left: 15px; 
+     margin-right: 5px; 
+ } 
+ 

@@ -1,0 +1,79 @@
+.login-container {
+    width: 660px;
+    background-image: url('../loginfile/log\ in.png');
+    border-radius: 25px;
+}
+.login-container h1 {
+    font-size: 45px;
+    text-align: center;
+    font-weight: 700;
+    margin-left: 10px;
+    color: aliceblue;
+}
+.login-container p {
+    margin-left: 230px;
+    margin-top: 10px;
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 15px;
+}
+.login-container a {
+    color: black;
+}
+.login-container h6 {
+    margin-left: 285px;
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.login-input {
+    position: relative;
+    width: 80%;
+    padding-left: 10px;
+    height: 50px;
+    margin: 5px 10%;
+    /* border: 1px solid white; */
+}
+.login-input input {
+    width: 95%;
+    margin-left: 15px;
+    padding-left: 10px;
+    height: 100%;
+    font-size: 14px;
+    font-weight: 600;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid aliceblue;
+    background-color: unset;
+    color: aliceblue;
+}
+::placeholder {
+    color: aliceblue;
+    opacity: 1;
+}
+.login-container button {
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 55%;
+    height: 35px;
+    background: #7abfc1;
+    color: rgb(0, 0, 0);
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+}
+.icon1 {
+    margin-left: 310px;
+    font-size: 23px;
+    display: flex;
+}
+.login-icon .fa {
+    margin-left: 80px;
+    margin-right: 5px;
+}
